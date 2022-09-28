@@ -9,3 +9,8 @@ What this code can do:
 
 Note: 
 You can do improvement by adding proxy to evade the limitation of sending registration code. error code {21} is limitation of sending email from your IP.
+
+How to run:
+1. Install nodejs and npm 
+2. npm install axios crypto cheerio
+3. node main.js
